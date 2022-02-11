@@ -1,6 +1,7 @@
 # Next.js Blog
 
 In this project, I've learned Next.js basics by creating a very simple blog app.
+You can check it out in the live version on Vercel [link](https://next-js-blog-mu-puce.vercel.app/).
 
 ## Prerequisites
 
